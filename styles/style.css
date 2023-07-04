@@ -1,0 +1,14 @@
+:root{
+  --bgColor: black;
+  --textFont: 'IBM Plex Mono', monospace;
+  
+}
+
+
+.smHeader{
+    display: inline;
+    color: aqua;
+}
+p{
+    font-family: var(--textFont);
+}
